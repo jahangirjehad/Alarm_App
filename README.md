@@ -3,7 +3,7 @@
 This is a Flutter mobile application built as part of a Junior Flutter Developer interview task. The app includes onboarding screens, location permission handling, alarm setting functionality, and notifications, following the provided Figma design.
 
 ## Project Overview
-The app guides users through three onboarding screens, requests location permissions, allows setting alarms with a time picker, and triggers notifications for alarms. It adheres to the specified folder structure and uses clean architecture with state management.
+The app guides users through three onboarding screens, requests location permissions, allows setting alarms with a time picker, and triggers notifications for alarms. It is arrangeed to the specified folder structure and uses clean architecture with state management.
 
 ## Flutter Version
 - **Flutter**: 3.24.4 (stable channel)
@@ -57,14 +57,14 @@ lib/
 ## Screenshots
 Below are screenshots showcasing the app's UI:
 
-![Onboarding Screen 1](assets/screenshots/onboard1.jpeg)
-![Onboarding Screen 2](assets/screenshots/onboard2.jpeg)
-![Onboarding Screen 3](assets/screenshots/onboard3.jpeg)
-![Location Screen](assets/screenshots/welcome.jpeg)
-![Alarm Screen](assets/screenshots/alarm.jpeg)
-![Show Notification](assets/screenshots/notification.jpeg)
+<img src="assets/screenshots/onboard1.jpeg" alt="Onboarding Screen 1" width="300"/>
+<img src="assets/screenshots/onboard2.jpeg" alt="Onboarding Screen 2" width="300"/>
+<img src="assets/screenshots/onboard3.jpeg" alt="Onboarding Screen 3" width="300"/>
+<img src="assets/screenshots/welcome.jpeg" alt="Location Screen" width="300"/>
+<img src="assets/screenshots/alarm.jpeg" alt="Alarm Screen" width="300"/>
+<img src="assets/screenshots/notification.jpeg" alt="Show Notification" width="300"/>
 
-*Note*: Screenshots are placeholders. Replace with actual images from your project in the `screenshots/` folder.
+
 
 
 
