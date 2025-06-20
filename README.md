@@ -6,15 +6,16 @@ This is a Flutter mobile application built as part of a Junior Flutter Developer
 The app guides users through three onboarding screens, requests location permissions, allows setting alarms with a time picker, and triggers notifications for alarms. It adheres to the specified folder structure and uses clean architecture with state management.
 
 ## Flutter Version
-- **Flutter**: 3.24.0 (stable channel)
-- **Dart**: 3.5.0
+- **Flutter**: 3.24.4 (stable channel)
+- **Dart**: 3.8.1
+- **sdk**: ^3.8.1
 
 ## Setup Instructions
 Follow these steps to clone and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/jahangirjehad/Alarm_App.git
    cd onboarding_app
    ```
 
@@ -56,12 +57,12 @@ lib/
 ## Screenshots
 Below are screenshots showcasing the app's UI:
 
-![Onboarding Screen 1](screenshots/onboard1.jpeg)
-![Onboarding Screen 2](screenshots/onboard2.jpeg)
-![Onboarding Screen 3](screenshots/onboard3.jpeg)
-![Location Screen](screenshots/welcome.jpeg)
-![Alarm Screen](screenshots/alarm.jpeg)
-![Show Notification](screenshots/notification.jpeg)
+![Onboarding Screen 1](assets/screenshots/onboard1.jpeg)
+![Onboarding Screen 2](assets/screenshots/onboard2.jpeg)
+![Onboarding Screen 3](assets/screenshots/onboard3.jpeg)
+![Location Screen](assets/screenshots/welcome.jpeg)
+![Alarm Screen](assets/screenshots/alarm.jpeg)
+![Show Notification](assets/screenshots/notification.jpeg)
 
 *Note*: Screenshots are placeholders. Replace with actual images from your project in the `screenshots/` folder.
 
