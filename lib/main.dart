@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'common_widgets/onboard_screen.dart';
+import 'features/onboard_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:timezone/data/latest.dart' as tz;
 

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:onboard_app/common_widgets/onboard_page.dart';
-import 'package:onboard_app/common_widgets/welcome_page.dart';
+import 'package:onboard_app/features/onboard_page.dart';
+import 'package:onboard_app/features/welcome_page.dart';
+
 
 import '../constants/onboard_data.dart';
 
